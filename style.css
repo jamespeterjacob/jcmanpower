@@ -2775,7 +2775,7 @@ figcaption {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    height: 80px;
+    height: 100%;
     padding-right: 15px;
     padding-left: 15px;
     -webkit-box-orient: horizontal;
