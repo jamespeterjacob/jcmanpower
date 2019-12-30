@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="80px"
-   height="12px"
-   viewBox="0 0 80 12"
+   width="220"
+   height="50"
+   viewBox="0 0 220 50"
    version="1.1"
    id="svg12"
    sodipodi:docname="jc_logo-black.svg"
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo-black</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,8 +39,8 @@
      inkscape:window-height="706"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="4.5125"
-     inkscape:cx="13.200429"
+     inkscape:zoom="1.5954097"
+     inkscape:cx="115.32552"
      inkscape:cy="6"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -56,11 +57,35 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      x="0.4028689"
-     y="8.7412291"
+     y="46.74123"
      id="text825"><tspan
        sodipodi:role="line"
        id="tspan823"
        x="0.4028689"
-       y="8.7412291"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666667px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">JC Manpower</tspan></text>
+       y="46.74123"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"><tspan
+   style="font-size:64px"
+   id="tspan815">JC</tspan> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="73.574608"
+     y="21.047674"
+     id="text819"><tspan
+       sodipodi:role="line"
+       id="tspan817"
+       x="73.574608"
+       y="21.047674"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Manpower</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="84.588989"
+     y="45.105217"
+     id="text823"><tspan
+       sodipodi:role="line"
+       id="tspan821"
+       x="84.588989"
+       y="45.105217"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Suppliers</tspan></text>
 </svg>
