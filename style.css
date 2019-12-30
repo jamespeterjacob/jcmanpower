@@ -2824,6 +2824,57 @@ figcaption {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 77, 119, 0.5)), to(rgba(25, 77, 119, 0.5))), url("https://jamespeterjacob.github.io/jcmanpower/Shot-Nine.jpg");
+    background-image: linear-gradient(180deg, rgba(25, 77, 119, 0.5), rgba(25, 77, 119, 0.5)), url("https://jamespeterjacob.github.io/jcmanpower/Shot-Nine.jpg");
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, scroll;
+}
+
+.slide-2 {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 77, 119, 0.5)), to(rgba(25, 77, 119, 0.5))), url("https://jamespeterjacob.github.io/jcmanpower/Shot-Four.jpg");
+    background-image: linear-gradient(180deg, rgba(25, 77, 119, 0.5), rgba(25, 77, 119, 0.5)), url("https://jamespeterjacob.github.io/jcmanpower/Shot-Four.jpg");
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, scroll;
+}
+
+.slide-3 {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 77, 119, 0.5)), to(rgba(25, 77, 119, 0.5))), url("https://assets.website-files.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
+    background-image: linear-gradient(180deg, rgba(25, 77, 119, 0.5), rgba(25, 77, 119, 0.5)), url("https://assets.website-files.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, scroll;
+}
+
+.slide-4 {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 77, 119, 0.5)), to(rgba(25, 77, 119, 0.5))), url("https://assets.website-files.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
     background-image: linear-gradient(180deg, rgba(25, 77, 119, 0.5), rgba(25, 77, 119, 0.5)), url("https://assets.website-files.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
     background-position: 0px 0px, 50% 50%;
