@@ -2778,6 +2778,7 @@ figcaption {
     height: 100%;
     padding-right: 15px;
     padding-left: 15px;
+    padding-top:15px;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
     -webkit-flex-direction: row-reverse;
