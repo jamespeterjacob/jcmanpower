@@ -2406,8 +2406,8 @@ figcaption {
     height: 48px;
     padding: 12px 20px;
     border-radius: 3px;
-    background-image: -webkit-gradient(linear, left top, right top, from(#ff935c), to(#fb406c));
-    background-image: linear-gradient(90deg, #ff935c, #fb406c);
+    background-image: -webkit-gradient(linear, left top, right top, from(#3898ec), to(#0fa03b));
+    background-image: linear-gradient(90deg, #3898ec, #0fa03b);
     font-size: 15px;
     line-height: 24px;
 }
