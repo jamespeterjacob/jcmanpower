@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="1280"
-   height="1280"
-   viewBox="0 0 1280 1280"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
    sodipodi:docname="jclogo.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
@@ -53,7 +53,7 @@
      inkscape:current-layer="svg2" />
   <g
      id="g827"
-     transform="translate(984.40678,124.74576)">
+     transform="matrix(0.078125,0,0,0.078125,76.906759,7.2458029)">
     <image
        y="-127.45763"
        x="-984.4068"
