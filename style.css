@@ -2689,11 +2689,11 @@ figcaption {
     padding: 14px 28px 11px;
     border: 1px solid #4d565b;
     border-radius: 25px;
-    background-color: transparent;
+    background-color: white;
     -webkit-transition: color 200ms ease, background-color 200ms ease;
     transition: color 200ms ease, background-color 200ms ease;
     font-family: Roboto, sans-serif;
-    color: #4d565b;
+    color: #1d58a3;
     font-size: 12px;
     line-height: 14px;
     font-weight: 500;
