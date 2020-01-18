@@ -4512,6 +4512,10 @@ figcaption {
         padding-right: 20px;
         padding-left: 20px;
     }
+    .left-middle-column {
+        width: 100%;
+        vertical-align: middle;
+    }
 
     .left-column {
         width: 100%;
