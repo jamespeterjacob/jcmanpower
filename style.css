@@ -3754,7 +3754,7 @@ figcaption {
     -webkit-box-align: stretch;
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
-    align-items: stretch;
+    align-items: center;
 }
 
 .flex-vertical {
