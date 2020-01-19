@@ -4195,7 +4195,7 @@ figcaption {
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: center;
-    width:600px;  
+    /*width:600px;*/  
 
     }
 
