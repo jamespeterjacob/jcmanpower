@@ -3703,6 +3703,11 @@ figcaption {
         background-image: url("https://jamespeterjacob.github.io/jcmanpower/webgobain1.jpg");
     }
 
+    .absolute-hover.gallery-kone {
+        height: 100%;
+        background-image: url("https://jamespeterjacob.github.io/jcmanpower/webkone1.jpg");
+    }
+
     .absolute-hover.gallery-3 {
         height: 100%;
         background-image: url("https://jamespeterjacob.github.io/jcmanpower/Shot-One.jpg");
